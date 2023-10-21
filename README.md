@@ -1,1 +1,1 @@
-MOVIE APP
+Movie App 🎥
